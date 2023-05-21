@@ -1,0 +1,24 @@
+DICIONARIO:
+a
+adventures
+blondes
+came
+disneyland
+fork
+going
+home
+in
+left
+read
+road
+sign
+so
+text
+the
+they
+to
+two
+went
+were
+when
+total de palavras diferentes no dicionario=22.
