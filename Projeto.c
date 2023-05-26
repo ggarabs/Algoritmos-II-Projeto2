@@ -1,6 +1,6 @@
 /*
 Algoritmos e Programação II
-Nome: Gustavo Garabetti Munhoz - Grupo 08
+Nome: Gustavo Garabetti Munhoz - Grupo 13
 Turma: 02N12
 Complexidade do Algoritmo: O(N)
 */
